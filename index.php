@@ -1,4 +1,4 @@
 <?php
    print "Тестирование GIT";
-   print "3";
+   print "4";
 ?>

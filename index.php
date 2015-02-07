@@ -1,3 +1,3 @@
 <?php
-   print "_test_====++++++++++++";
+   print "test";
 ?>
